@@ -1,5 +1,11 @@
+import Hero from "./Hero.jsx";
+
 function App() {
-  return "";
+  return (
+    <>
+      <Hero />
+    </>
+  );
 }
 
 export default App;
